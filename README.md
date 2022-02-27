@@ -1,4 +1,14 @@
-### Hi there 👋
+### Привет! 👋
+
+### Меня зовут Ксения и я только начинаю осваивать фронтенд-разработку
+
+**Мой технологический стэк:**
+* HTML/CSS
+* JavaScript
+* React
+* Redux
+
+💌 Связаться со мной: [telegram](https://t.me/ksukorneeva69)
 
 <!--
 **ksukorneeva/ksukorneeva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
