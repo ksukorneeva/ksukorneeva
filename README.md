@@ -10,6 +10,8 @@
 
 💌 Связаться со мной: [telegram](https://t.me/ksukorneeva69)
 
+cv-ksu-korneeva.vercel.app
+
 <!--
 **ksukorneeva/ksukorneeva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
